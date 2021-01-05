@@ -54,5 +54,7 @@ npm install jimp
 
 ## Built With
 
-* [Node.js](https://nodejs.org/en/) - the base that the bot runs on
-* [discord.js](https://discord.js.org/#/) - node.js link to the discord bot api
+* [Node.js](https://nodejs.org/en/) - The base that the bot runs on.
+* [discord.js](https://discord.js.org/#/) - The link to the Discord Bot API.
+* [Puppeteer](https://pptr.dev/) - The link to the Puppeteer Node library.
+* [Jimp](https://github.com/oliver-moran/jimp#readme) - THe link to the Jimp Node library.
