@@ -1,4 +1,4 @@
-# Discord.js Discord bot template
+# bakabot Discord Bot
 basic bot template with command handler
 
 Change Token in ``token.json``
