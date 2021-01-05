@@ -2,13 +2,13 @@
 A multipurpose Discord Bot created to support gaming communities on Discord. Currently, bakabot is in multiple servers with over 2000 users. I created this project using Javascript (particularly Node.js), Discord.js, Puppeteer (web scraping), and Jimp (image manipulation).
 
 ## How to use bakabot
-bakabot comes with a wide variety of commands. Below are all the commands that are available.
+bakabot comes with a wide variety of commands. Below are all the commands that are available. All commands produce the information in a readable message to users using the Discord.js API.
 
 ### ` b!lol`
-Displays the Summoner Profile for the user provided. The command must be used in the form of `b!lol <region> <summoner>`. <br/>
+Displays the Summoner Profile for the user provided. The command must be used in the form of `b!lol <region> <summoner>`. This command uses the Puppeteer Node library to webscrape three websites to collect all the information needed to create the LoL profile.
 <img align="center" src="readme-imgs/b!lol.png" height="500" width="auto"/>
 ### ` b!jail`
-Displays the user's profile picture under jail bars. Oh no! Looks like they've been jailed!<br/>
+Displays the user's profile picture under jail bars. Oh no! Looks like they've been jailed! This command uses the Jimp Node library to put the image of the jail bars on top of a user's profile using image manipulation. <br/>
 <img align="center" src="readme-imgs/b!jail.png"/>
 
 ### ` b!meme`
