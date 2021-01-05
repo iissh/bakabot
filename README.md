@@ -28,8 +28,8 @@ Says an answer from 8ball based on the statement or question provided. <br/>
 <img align="center" src="readme-imgs/b!8ball.png"/>
 
 ### ` b!ping`
-bakabot replies with "Pong!". <br/>
-<img align="center" src="readme-imgs/b!pong.png"/>
+bakabot replies with "pong". <br/>
+<img align="center" src="readme-imgs/b!ping.png"/>
 
 ### ` b!help`
 Displays the list of commands that bakabot offers. <br/>
