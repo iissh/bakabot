@@ -6,8 +6,11 @@ bakabot comes with a wide variety of commands. Below are all the commands that a
 
 ### ` b!lol`
 Displays the Summoner Profile for the user provided. Works for most regions. The command must be used in the form of `b!lol <region> <summoner>`.
+<img align="center" src="readme-imgs/b!lol.png/>
 ### ` b!jail`
+<img align="center" src="readme-imgs/b!jail.png/>
 ### ` b!meme`
+<img align="center" src="readme-imgs/b!meme.png/>
 ### ` b!love`
 ### ` b!simprate`
 ### ` b!8ball`
