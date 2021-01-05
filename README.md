@@ -1,7 +1,16 @@
 # bakabot Discord Bot
 A multipurpose Discord Bot created to support gaming communities on Discord. Currently, bakabot is in multiple servers with over 2000 users. I created this project using Javascript (particularly Node.js), Discord.js, Puppeteer (web scraping), and Jimp (image manipulation).
 
-### Prerequisites
+### How to use bakabot
+bakabot comes with a wide variety of commands. Below are all the commands that are available.
+
+#### ` b!lol`
+#### ` b!jail`
+#### ` b!meme`
+#### ` b!love`
+#### ` b!help`
+
+### Prerequisites for Downloading Bot Files
 You will need to install the following things before you can run the bot
 ```
 Node.js
