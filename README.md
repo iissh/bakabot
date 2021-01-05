@@ -16,14 +16,26 @@ Displays a random meme. <br/>
 <img align="center" src="readme-imgs/b!meme.png"/>
 
 ### ` b!love`
+Produces the compatibility percentage between two people. Command can be used as **`b!love @<some user>`** or **`b!love @<some user> @<some other user>`**.
+<img align="center" src="readme-imgs/b!love.png"/>
+
 ### ` b!simprate`
+Produces a simp percentage for the user. Command can also be used as **`b!simprate @<some user>`** to determine another user's simp percentage.<br/>
+<img align="center" src="readme-imgs/b!love.png"/>
+
 ### ` b!8ball`
+Says an answer from 8ball based on the statement or question provided. <br/>
+<img align="center" src="readme-imgs/b!8ball.png"/>
+
 ### ` b!ping`
 bakabot replies with "Pong!". <br/>
 <img align="center" src="readme-imgs/b!pong.png"/>
+
 ### ` b!help`
 Displays the list of commands that bakabot offers. <br/>
 <img align="center" src="readme-imgs/b!help.png"/>
+
+
 ### Prerequisites for Downloading Bot Files
 You will need to install the following things before you can run the bot
 ```
