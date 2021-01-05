@@ -5,6 +5,7 @@ A multipurpose Discord Bot created to support gaming communities on Discord. Cur
 bakabot comes with a wide variety of commands. Below are all the commands that are available.
 
 ### ` b!lol`
+Displays the Summoner Profile for the user provided. Works for most regions. The command must be used in the form of `b!lol <region> <summoner>`.
 ### ` b!jail`
 ### ` b!meme`
 ### ` b!love`
