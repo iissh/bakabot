@@ -36,7 +36,7 @@ Displays the list of commands that bakabot offers. <br/>
 <img align="center" src="readme-imgs/b!help.png" height="500" width="auto"/>
 
 
-### Prerequisites for Downloading Bot Files
+## Prerequisites for Downloading Bot Files
 You will need to install the following things before you can run the bot
 ```
 Node.js
@@ -50,7 +50,6 @@ npm install discord.js
 npm install puppeteer
 npm install jimp
 ```
-
 
 ## Built With
 
