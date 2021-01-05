@@ -33,7 +33,7 @@ bakabot replies with "pong". <br/>
 
 ### ` b!help`
 Displays the list of commands that bakabot offers. <br/>
-<img align="center" src="readme-imgs/b!help.png"/>
+<img align="center" src="readme-imgs/b!help.png" height="500" width="auto"/>
 
 
 ### Prerequisites for Downloading Bot Files
